@@ -1,5 +1,5 @@
 - Hi everyone!
-- My name is Marina Travkova (@trvkyo)
+- My name is Marina Travkova
 - I learn HTML, CSS, Python, JavaScript
 - Interested in art projects (music, design, graphic), urban culture and architecture
 - My email: travkova03@gmail.com
