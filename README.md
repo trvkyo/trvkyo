@@ -1,8 +1,7 @@
 - Hi everyone!
 - My name is Marina Travkova (@trvkyo)
-- I’m currently learning HTML, CSS, Python, JavaScript
-- I’m interested in art projects (music, design, graphic), urban culture and architecture
-- I’m looking to collaborate on any projects (need more experience!)
+- I learn HTML, CSS, Python, JavaScript
+- Interested in art projects (music, design, graphic), urban culture and architecture
 - My email: travkova03@gmail.com
 - Telegram: @trvkyo
 
