@@ -1,8 +1,10 @@
-- Good day, my name is Marina 
-- I’m interested in art projects (music, design, graphic), urban culture and architecture!
+- Hi everyone!
+- My name is Marina Travkova (@trvkyo)
 - I’m currently learning HTML, CSS, Python, JavaScript
-- I’m looking to collaborate on any projects (I need more experience!)
-- How to reach me? Here is my email: travkova03@gmail.com and mobile number: +79994688012
+- I’m interested in art projects (music, design, graphic), urban culture and architecture
+- I’m looking to collaborate on any projects (need more experience!)
+- My email: travkova03@gmail.com
+- Telegram: @trvkyo
 
 <!---
 trvkyo/trvkyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
