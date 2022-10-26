@@ -1,6 +1,6 @@
 - Hi everyone!
 - My name is Marina Travkova
-- I learn HTML, CSS, Python, JavaScript
+- I learn HTML, CSS, JavaScript
 - Interested in art projects (music, design, graphic), urban culture and architecture
 - My email: travkova03@gmail.com
 - Telegram: @trvkyo
